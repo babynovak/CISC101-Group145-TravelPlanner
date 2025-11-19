@@ -10,5 +10,5 @@ for each day:
     pick Midday activity (close by)  
     pick Afternoon activity (different theme)  
     pick Evening restaurant or optional event
-
+  
 ---
